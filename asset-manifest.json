@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/AlexKulazhenko/shop-project/static/css/main.55260d15.css",
-    "main.js": "/AlexKulazhenko/shop-project/static/js/main.868158ad.js",
-    "index.html": "/AlexKulazhenko/shop-project/index.html",
-    "main.55260d15.css.map": "/AlexKulazhenko/shop-project/static/css/main.55260d15.css.map",
-    "main.868158ad.js.map": "/AlexKulazhenko/shop-project/static/js/main.868158ad.js.map"
+    "main.css": "/shop-project/static/css/main.55260d15.css",
+    "main.js": "/shop-project/static/js/main.868158ad.js",
+    "index.html": "/shop-project/index.html",
+    "main.55260d15.css.map": "/shop-project/static/css/main.55260d15.css.map",
+    "main.868158ad.js.map": "/shop-project/static/js/main.868158ad.js.map"
   },
   "entrypoints": [
     "static/css/main.55260d15.css",
